@@ -1,0 +1,14 @@
+minnan 0
+
+nanchang 1
+
+kejia 2
+
+changsha 3
+
+shanghai 4
+
+hebei 5
+
+
+
